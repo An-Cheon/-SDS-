@@ -1,8 +1,8 @@
 '''
 Author: whalefall
 Date: 2021-06-17 22:36:26
-LastEditTime: 2021-06-18 14:32:56
-Description: 
+LastEditTime: 2021-06-18 14:39:52
+Description: 抑郁症测评问卷 复刻
 '''
 # import cursor
 import os
