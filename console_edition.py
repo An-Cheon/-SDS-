@@ -1,8 +1,14 @@
-import cursor
+'''
+Author: whalefall
+Date: 2021-06-17 22:36:26
+LastEditTime: 2021-06-18 14:39:52
+Description: 抑郁症测评问卷 复刻
+'''
+# import cursor
 import os
 def clear():#清空cmd
     os.system('cls')
-cursor.hide()
+# cursor.hide()
 defalt_information = "SAS采用4级评分，主要评定症状出现的频度，其标准为:\n" \
                      "\"1\"表示没有或很少时间有\n" \
                      "\"2\"表示有时有\n" \
